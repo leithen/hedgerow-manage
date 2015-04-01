@@ -95,4 +95,4 @@ for(year in 2006:2013)
   make.distance.table(year=year, radii=radii, num.cores=1)
 
 
-git remote add origin https://github.com/leithen/manage.git
+git remote add origin https://github.com/leithen/hedgerow-manage.git
