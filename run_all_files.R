@@ -1,0 +1,7 @@
+rm(list=ls())
+setwd('~/Dropbox/occupancy/data')
+source('manage/make_relational.R')
+source('analysis/make_matrices.R')
+source('analysis/compute_pollinator_phenology.R')
+source('manage/make_veg.R')
+source('manage/make_traits.R')
